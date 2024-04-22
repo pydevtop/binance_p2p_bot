@@ -15,6 +15,10 @@ The choice of currency (fiat) and payment methods (banks) in the bot is dynamic 
 
 After launching the task (order) you created, the bot will monitor prices on the Binance P2P exchange, and as soon as the price appears below the one set in the task you created, the bot will open a deal and notify you in a telegram
 
+
+####  Similar developments:
+P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+
 #### Installing
 Instructions for installing and configuring the Binance P2P bot
 To manage the Binance P2P bot software, you need to create and connect a telegram bot
