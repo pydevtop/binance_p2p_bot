@@ -17,7 +17,10 @@ After launching the task (order) you created, the bot will monitor prices on the
 
 
 ####  Similar developments:
+=============================================================================
 P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+=============================================================================
+
 
 #### Installing
 Instructions for installing and configuring the Binance P2P bot
