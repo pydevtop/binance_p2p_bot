@@ -61,4 +61,4 @@ https://py-dev.top/en/application-software/binance-p2p-bot
 
 ## Contacts
 Telegram:  @morgan_sql<br>
-Telegram channel:   https://t.me/py_developers
+Telegram channel:  https://t.me/pydevtop
