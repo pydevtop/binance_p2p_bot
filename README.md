@@ -4,7 +4,7 @@ Automatic purchase of orders on Binance P2P
 BinanceBot is written in the Python programming language for the Binance cryptocurrency exchange
 
 Bot  automatically buy USDT and other coins on the Binance exchange in the order faster than others through p2p
-<p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_bot_binance.png"></p>
+<p align="center"><img width="650" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_bot_binance.png"></p>
 
 ## Advantages of the BinanceBot bot in trading on the Binance cryptocurrency exchange?
 The bot works on the Binance API - this makes it possible to buy orders very quickly
