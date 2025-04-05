@@ -26,7 +26,7 @@ P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 Instructions for installing and configuring the Binance P2P bot
 To manage the Binance P2P bot software, you need to create and connect a telegram bot
 #### 1. Registering a new Telegram bot
-Detailed instructions for registering a new telegram bot: https://py-dev.top/en/registering-telegram-bot
+Detailed instructions for registering a new telegram bot: https://py-dev.top/registering-telegram-bot
 
 The resulting API key for your telegram bot will need to be copied and added to the config.py configuration file located in the bot folder
 
@@ -37,7 +37,7 @@ We create or take existing API Key and Secret Key to connect to the Binance API 
 
 APIKey and Secret Key also need to be copied and added to the bot configuration file config.py
 #### 3. Install Python
-Detailed instructions on how to install Python on Windows: https://py-dev.top/en/installing-python
+Detailed instructions on how to install Python on Windows: https://py-dev.top/installing-python
 
 Go to the settings of the bot itself
 
@@ -57,7 +57,7 @@ Payment methods (PayType) - you can specify an unlimited number
 System requirements: Windows 10/11, Python 3.x.x
 
 ## Buy a subscription to Binance P2P Bot
-https://py-dev.top/en/application-software/binance-p2p-bot
+https://py-dev.top/application-software/binance-p2p-bot
 
 ## Contacts
 Telegram:  @morgan_sql<br>
