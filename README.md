@@ -56,10 +56,28 @@ Payment methods (PayType) - you can specify an unlimited number
 #### Additional Information
 
 ```
-21/06/2025 - Updates version 1.0.3 - Added: New feature:  Added sending a message to Binance P2P chat. After opening an order (deal), the bot will automatically send a message you prepared in advance to the seller in the Binance P2P chat. Activating the function: Set notify_seller = 1 to activate. If notify_seller = 0, the function is disabled.
+21/06/2025 - Updates version 1.0.3 - Added: New feature:  Added sending a message to Binance P2P chat.
+After opening an order (deal), the bot will automatically send a message you prepared in advance to the seller in the Binance P2P chat.
+ Activating the function: Set notify_seller = 1 to activate. If notify_seller = 0, the function is disabled.
 ```
 
-System requirements: Windows 10/11, Python 3.x.x
+## ✅ System Requirements
+
+### 🖥️ Operating System
+- Windows 10/11  
+- macOS  
+- Linux (Ubuntu, Debian, etc.)
+
+### 🐍 Python Version
+- Python 3.10 or higher
+
+### 📄 Description
+- The bot is written in **pure Python** and is **fully cross-platform**.
+- Compatible with all major desktop operating systems.
+- Only the **startup method** may vary slightly depending on the platform:
+  - `.bat` file for **Windows**
+  - `.sh` shell script for **Linux/macOS**
+
 
 ## Buy a subscription to Binance P2P Bot
 https://py-dev.top/application-software/binance-p2p-bot
