@@ -16,7 +16,10 @@ The choice of currency (fiat) and payment methods (banks) in the bot is dynamic 
 After launching the task (order) you created, the bot will monitor prices on the Binance P2P exchange, and as soon as the price appears below the one set in the task you created, the bot will open a deal and notify you in a telegram
 
 
-####  Similar developments:
+### Related Binance P2P Automation Tool
+
+> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api/](https://py-dev.top/binance-api/).
+> 
 ******************************************************************************
 P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 ******************************************************************************
@@ -79,7 +82,7 @@ After opening an order (deal), the bot will automatically send a message you pre
   - `.sh` shell script for **Linux/macOS**
 
 
-## Buy a subscription to Binance P2P Bot
+## Buy Binance P2P Bot
 https://py-dev.top/application-software/binance-p2p-bot
 
 ## Contacts
