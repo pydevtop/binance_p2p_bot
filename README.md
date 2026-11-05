@@ -4,7 +4,7 @@ Automatic purchase of orders on Binance P2P
 BinanceBot is written in the Python programming language for the Binance cryptocurrency exchange
 
 Bot  automatically buy USDT and other coins on the Binance exchange in the order faster than others through p2p
-<p align="center"><img width="650" src="https://py-dev.top/components/com_jshopping/files/img_products/Detects_Best_Price_Automatically.jpg"></p>
+<p align="center"><img width="650" src="https://py-dev.top/media/store/products/binance-p2p-bot/thumb_full_Detects_Best_Price_Automatically.jpg"></p>
 
 ## Advantages of the BinanceBot bot in trading on the Binance cryptocurrency exchange?
 The bot works on the Binance API - this makes it possible to buy orders very quickly
@@ -18,7 +18,7 @@ After launching the task (order) you created, the bot will monitor prices on the
 
 ### Related Binance P2P Automation Tool
 
-> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api/](https://py-dev.top/binance-api/).
+> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api](https://py-dev.top/binance-api).
 > 
 ******************************************************************************
 P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
@@ -29,7 +29,7 @@ P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 Instructions for installing and configuring the Binance P2P bot
 To manage the Binance P2P bot software, you need to create and connect a telegram bot
 #### 1. Registering a new Telegram bot
-Detailed instructions for registering a new telegram bot: https://py-dev.top/registering-telegram-bot
+Detailed instructions for registering a new telegram bot: https://py-dev.top/blog/setup-guides/how-to-create-telegram-bot-botfather-api-token
 
 The resulting API key for your telegram bot will need to be copied and added to the config.py configuration file located in the bot folder
 
@@ -40,7 +40,7 @@ We create or take existing API Key and Secret Key to connect to the Binance API 
 
 APIKey and Secret Key also need to be copied and added to the bot configuration file config.py
 #### 3. Install Python
-Detailed instructions on how to install Python on Windows: https://py-dev.top/installing-python
+Detailed instructions on how to install Python on Windows: https://py-dev.top/blog/setup-guides/how-to-install-python-on-windows
 
 Go to the settings of the bot itself
 
